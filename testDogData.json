@@ -28,7 +28,7 @@
                }
             ],
             "color":"white",
-            "animalBreeds":[
+            "animalCategory":[
                {
                   "breedId":"QL9",
                   "breedName":"Tiger",
