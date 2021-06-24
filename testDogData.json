@@ -1,0 +1,52 @@
+{
+   "Status":"success",
+   "result":{
+      "testCode":"123",
+      "date":"24-jun-2021",
+      "testData":[
+         {
+            "animalName":"Dog",
+            "animalId":"166",
+            "animalBreeds":[
+               {
+                  "breedId":"GS24",
+                  "breedName":"german shepherd",
+                  "Price":"1243554",
+                  "true":"1"
+               },
+               {
+                  "breedId":"KS24",
+                  "breedName":"Shepherd",
+                  "Price":"1243554",
+                  "true":"0"
+               },
+               {
+                  "breedId":"NS24",
+                  "breedName":"Hound",
+                  "Price":"1243554",
+                  "true":"1"
+               }
+            ],
+            "color":"white",
+            "animalBreeds":[
+               {
+                  "breedId":"QL9",
+                  "breedName":"Tiger",
+                  "Price":"3554",
+                  "true":"0"
+               },
+               {
+                  "breedId":"QL10",
+                  "breedName":"Black Hound",
+                  "Price":"W435L54",
+                  "true":"1"
+               }
+            ]
+         }
+      ],
+      "testDetails":{
+         "details":"test details",
+         "details2":"test details2"
+      }
+   }
+}
