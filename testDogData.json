@@ -88,7 +88,7 @@
                }
             ]
          },
-          {
+         {
             "animalName":"Cat",
             "animalId":"466",
             "animalBreeds":[
@@ -138,7 +138,7 @@
                   "true":"1"
                }
             ]
-         },
+         }
       ],
       "testDetails":{
          "details":"test details",
