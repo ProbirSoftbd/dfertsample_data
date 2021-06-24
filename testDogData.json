@@ -190,6 +190,110 @@
             "true": "1"
           }
         ]
+      },
+
+      {
+        "animalName": "Shark",
+        "animalId": "986",
+        "animalBreeds": [
+          {
+            "breedId": "CS44",
+            "breedName": "Tiger Shark",
+            "Price": "3554",
+            "true": "1"
+          },
+          {
+            "breedId": "CS44",
+            "breedName": "Hammer Head Shark",
+            "Price": "554",
+            "true": "0"
+          },
+          {
+            "breedId": "CS24",
+            "breedName": "Hound",
+            "Price": "454",
+            "true": "1"
+          },
+          {
+            "breedId": "CS64",
+            "breedName": "Hound",
+            "Price": "454",
+            "true": "1"
+          }
+        ],
+        "color": "Blue",
+        "animalCategory": [
+          {
+            "breedId": "CL49",
+            "breedName": "Grate White Shark",
+            "Price": "3554",
+            "true": "0"
+          },
+          {
+            "breedId": "CL40",
+            "breedName": "Black Shark",
+            "Price": "W435L54",
+            "true": "1"
+          },
+          {
+            "breedId": "CL40",
+            "breedName": "Hammer Head Shark",
+            "Price": "W435L54",
+            "true": "1"
+          }
+        ]
+      },
+
+      {
+        "animalName": "Shark",
+        "animalId": "444",
+        "animalBreeds": [
+          {
+            "breedId": "CS44",
+            "breedName": "Tiger Shark",
+            "Price": "3554",
+            "true": "1"
+          },
+          {
+            "breedId": "CS44",
+            "breedName": "Hammer Head Shark",
+            "Price": "554",
+            "true": "0"
+          },
+          {
+            "breedId": "CS24",
+            "breedName": "Hound",
+            "Price": "454",
+            "true": "1"
+          },
+          {
+            "breedId": "CS64",
+            "breedName": "Hound",
+            "Price": "454",
+            "true": "1"
+          }
+        ],
+        "color": "Blue",
+        "animalCategory": [
+          {
+            "breedId": "CL49",
+            "breedName": "Grate White Shark",
+            "Price": "3554",
+            "true": "0"
+          },
+          {
+            "breedId": "CL40",
+            "breedName": "Black Shark",
+            "Price": "W435L54",
+            "true": "1"
+          },
+          {
+            "breedId": "CL40",
+            "breedName": "Hammer Head Shark",
+            "Price": "W435L54",
+            "true": "1"
+          }
+        ]
       }
     ],
     "testDetails": {
