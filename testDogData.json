@@ -11,19 +11,19 @@
                {
                   "breedId":"GS24",
                   "breedName":"german shepherd",
-                  "Price":"988",
+                  "Price":"1243554",
                   "true":"1"
                },
                {
                   "breedId":"KS24",
                   "breedName":"Shepherd",
-                  "Price":"43554",
+                  "Price":"1243554",
                   "true":"0"
                },
                {
                   "breedId":"NS24",
                   "breedName":"Hound",
-                  "Price":"43554",
+                  "Price":"1243554",
                   "true":"1"
                }
             ],
@@ -38,7 +38,7 @@
                {
                   "breedId":"QL10",
                   "breedName":"Black Hound",
-                  "Price":"345",
+                  "Price":"W435L54",
                   "true":"1"
                }
             ]
@@ -77,7 +77,7 @@
                {
                   "breedId":"WL40",
                   "breedName":"Black Hound",
-                  "Price":"466",
+                  "Price":"W435L54",
                   "true":"1"
                },
                {
@@ -128,418 +128,13 @@
                {
                   "breedId":"CL40",
                   "breedName":"Black Hound",
-                  "Price":"846",
+                  "Price":"W435L54",
                   "true":"1"
                },
                {
                   "breedId":"CL40",
                   "breedName":"Black Hound",
-                  "Price":"3642",
-                  "true":"1"
-               }
-            ]
-         },
-          {
-            "animalName":"Dog",
-            "animalId":"166",
-            "animalBreeds":[
-               {
-                  "breedId":"GS24",
-                  "breedName":"german shepherd",
-                  "Price":"988",
-                  "true":"1"
-               },
-               {
-                  "breedId":"KS24",
-                  "breedName":"Shepherd",
-                  "Price":"43554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"NS24",
-                  "breedName":"Hound",
-                  "Price":"43554",
-                  "true":"1"
-               }
-            ],
-            "color":"white",
-            "animalCategory":[
-               {
-                  "breedId":"QL9",
-                  "breedName":"Tiger",
-                  "Price":"3554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"QL10",
-                  "breedName":"Black Hound",
-                  "Price":"345",
-                  "true":"1"
-               }
-            ]
-         },
-         {
-            "animalName":"Dragon",
-            "animalId":"266",
-            "animalBreeds":[
-               {
-                  "breedId":"GS44",
-                  "breedName":"german shepherd",
-                  "Price":"3554",
-                  "true":"1"
-               },
-               {
-                  "breedId":"KS44",
-                  "breedName":"Shepherd",
-                  "Price":"554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"NS24",
-                  "breedName":"Hound",
-                  "Price":"454",
-                  "true":"1"
-               }
-            ],
-            "color":"white",
-            "animalCategory":[
-               {
-                  "breedId":"WL49",
-                  "breedName":"White Tiger",
-                  "Price":"3554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"WL40",
-                  "breedName":"Black Hound",
-                  "Price":"466",
-                  "true":"1"
-               },
-               {
-                  "breedId":"WS24",
-                  "breedName":"Hound",
-                  "Price":"454",
-                  "true":"1"
-               }
-            ]
-         },
-         {
-            "animalName":"Cat",
-            "animalId":"466",
-            "animalBreeds":[
-               {
-                  "breedId":"CS44",
-                  "breedName":"german shepherd",
-                  "Price":"3554",
-                  "true":"1"
-               },
-               {
-                  "breedId":"CS44",
-                  "breedName":"Shepherd",
-                  "Price":"554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"CS24",
-                  "breedName":"Hound",
-                  "Price":"454",
-                  "true":"1"
-               },
-               {
-                  "breedId":"CS64",
-                  "breedName":"Hound",
-                  "Price":"454",
-                  "true":"1"
-               }
-            ],
-            "color":"white",
-            "animalCategory":[
-               {
-                  "breedId":"CL49",
-                  "breedName":"White Tiger",
-                  "Price":"3554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"CL40",
-                  "breedName":"Black Hound",
-                  "Price":"846",
-                  "true":"1"
-               },
-               {
-                  "breedId":"CL40",
-                  "breedName":"Black Hound",
-                  "Price":"3642",
-                  "true":"1"
-               }
-            ]
-         },
-          {
-            "animalName":"Dog",
-            "animalId":"166",
-            "animalBreeds":[
-               {
-                  "breedId":"GS24",
-                  "breedName":"german shepherd",
-                  "Price":"988",
-                  "true":"1"
-               },
-               {
-                  "breedId":"KS24",
-                  "breedName":"Shepherd",
-                  "Price":"43554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"NS24",
-                  "breedName":"Hound",
-                  "Price":"43554",
-                  "true":"1"
-               }
-            ],
-            "color":"white",
-            "animalCategory":[
-               {
-                  "breedId":"QL9",
-                  "breedName":"Tiger",
-                  "Price":"3554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"QL10",
-                  "breedName":"Black Hound",
-                  "Price":"345",
-                  "true":"1"
-               }
-            ]
-         },
-         {
-            "animalName":"Dragon",
-            "animalId":"266",
-            "animalBreeds":[
-               {
-                  "breedId":"GS44",
-                  "breedName":"german shepherd",
-                  "Price":"3554",
-                  "true":"1"
-               },
-               {
-                  "breedId":"KS44",
-                  "breedName":"Shepherd",
-                  "Price":"554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"NS24",
-                  "breedName":"Hound",
-                  "Price":"454",
-                  "true":"1"
-               }
-            ],
-            "color":"white",
-            "animalCategory":[
-               {
-                  "breedId":"WL49",
-                  "breedName":"White Tiger",
-                  "Price":"3554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"WL40",
-                  "breedName":"Black Hound",
-                  "Price":"466",
-                  "true":"1"
-               },
-               {
-                  "breedId":"WS24",
-                  "breedName":"Hound",
-                  "Price":"454",
-                  "true":"1"
-               }
-            ]
-         },
-         {
-            "animalName":"Cat",
-            "animalId":"466",
-            "animalBreeds":[
-               {
-                  "breedId":"CS44",
-                  "breedName":"german shepherd",
-                  "Price":"3554",
-                  "true":"1"
-               },
-               {
-                  "breedId":"CS44",
-                  "breedName":"Shepherd",
-                  "Price":"554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"CS24",
-                  "breedName":"Hound",
-                  "Price":"454",
-                  "true":"1"
-               },
-               {
-                  "breedId":"CS64",
-                  "breedName":"Hound",
-                  "Price":"454",
-                  "true":"1"
-               }
-            ],
-            "color":"white",
-            "animalCategory":[
-               {
-                  "breedId":"CL49",
-                  "breedName":"White Tiger",
-                  "Price":"3554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"CL40",
-                  "breedName":"Black Hound",
-                  "Price":"846",
-                  "true":"1"
-               },
-               {
-                  "breedId":"CL40",
-                  "breedName":"Black Hound",
-                  "Price":"3642",
-                  "true":"1"
-               }
-            ]
-         },
-          {
-            "animalName":"Dog",
-            "animalId":"166",
-            "animalBreeds":[
-               {
-                  "breedId":"GS24",
-                  "breedName":"german shepherd",
-                  "Price":"988",
-                  "true":"1"
-               },
-               {
-                  "breedId":"KS24",
-                  "breedName":"Shepherd",
-                  "Price":"43554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"NS24",
-                  "breedName":"Hound",
-                  "Price":"43554",
-                  "true":"1"
-               }
-            ],
-            "color":"white",
-            "animalCategory":[
-               {
-                  "breedId":"QL9",
-                  "breedName":"Tiger",
-                  "Price":"3554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"QL10",
-                  "breedName":"Black Hound",
-                  "Price":"345",
-                  "true":"1"
-               }
-            ]
-         },
-         {
-            "animalName":"Dragon",
-            "animalId":"266",
-            "animalBreeds":[
-               {
-                  "breedId":"GS44",
-                  "breedName":"german shepherd",
-                  "Price":"3554",
-                  "true":"1"
-               },
-               {
-                  "breedId":"KS44",
-                  "breedName":"Shepherd",
-                  "Price":"554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"NS24",
-                  "breedName":"Hound",
-                  "Price":"454",
-                  "true":"1"
-               }
-            ],
-            "color":"white",
-            "animalCategory":[
-               {
-                  "breedId":"WL49",
-                  "breedName":"White Tiger",
-                  "Price":"3554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"WL40",
-                  "breedName":"Black Hound",
-                  "Price":"466",
-                  "true":"1"
-               },
-               {
-                  "breedId":"WS24",
-                  "breedName":"Hound",
-                  "Price":"454",
-                  "true":"1"
-               }
-            ]
-         },
-         {
-            "animalName":"Cat",
-            "animalId":"466",
-            "animalBreeds":[
-               {
-                  "breedId":"CS44",
-                  "breedName":"german shepherd",
-                  "Price":"3554",
-                  "true":"1"
-               },
-               {
-                  "breedId":"CS44",
-                  "breedName":"Shepherd",
-                  "Price":"554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"CS24",
-                  "breedName":"Hound",
-                  "Price":"454",
-                  "true":"1"
-               },
-               {
-                  "breedId":"CS64",
-                  "breedName":"Hound",
-                  "Price":"454",
-                  "true":"1"
-               }
-            ],
-            "color":"white",
-            "animalCategory":[
-               {
-                  "breedId":"CL49",
-                  "breedName":"White Tiger",
-                  "Price":"3554",
-                  "true":"0"
-               },
-               {
-                  "breedId":"CL40",
-                  "breedName":"Black Hound",
-                  "Price":"846",
-                  "true":"1"
-               },
-               {
-                  "breedId":"CL40",
-                  "breedName":"Black Hound",
-                  "Price":"3642",
+                  "Price":"W435L54",
                   "true":"1"
                }
             ]
